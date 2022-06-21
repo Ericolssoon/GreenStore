@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap:  https://green-store-project.herokuapp.com/sitemap.xml
